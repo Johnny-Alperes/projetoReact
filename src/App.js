@@ -8,9 +8,9 @@ import Fragmento from './componentes/Fragmento';
 
 function App() {
   return (
-    <>
-      <Fragmento/>
-    </>
+    <div>
+      <ListaDeFrutas/>
+    </div>
   );
 }
 
