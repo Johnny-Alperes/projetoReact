@@ -7,11 +7,12 @@ import ListaDeFrutas from './componentes/ListaDeFrutas';
 import Fragmento from './componentes/Fragmento';
 import Botao from './componentes/Botao'
 import Contador from './componentes/Contador';
+import MinhaRef from './componentes/MinhaRef';
 
 function App() {
   return (
     <div>
-      <Contador/>
+      <MinhaRef/>
     </div>
   );
 }
