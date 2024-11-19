@@ -19,6 +19,6 @@ function ListaDeFrutas() {
   );
 }
 
-export default ListaDeFrutas;
+export default ListaDeFrutas
 
  

@@ -5,11 +5,13 @@ import MudaCorMouse from './componentes/MudaCorMouse';
 import AlterButton from './componentes/AlterButton';
 import ListaDeFrutas from './componentes/ListaDeFrutas';
 import Fragmento from './componentes/Fragmento';
+import Botao from './componentes/Botao'
+import Contador from './componentes/Contador';
 
 function App() {
   return (
     <div>
-      <ListaDeFrutas/>
+      <Contador/>
     </div>
   );
 }
