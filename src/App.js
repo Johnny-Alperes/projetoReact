@@ -8,11 +8,13 @@ import Fragmento from './componentes/Fragmento';
 import Botao from './componentes/Botao'
 import Contador from './componentes/Contador';
 import MinhaRef from './componentes/MinhaRef';
+import LoginScreen from './componentes/telaDeLogin2';
+
 
 function App() {
   return (
     <div>
-      <MinhaRef/>
+      <LoginScreen />
     </div>
   );
 }
